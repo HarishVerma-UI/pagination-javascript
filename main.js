@@ -40,7 +40,6 @@ function pagination(querySet, page, rows) {
 }
 
 function pageButtons(pages) {
-    console.log(pages,state);
     var wrapper = document.getElementById('pagination-wrapper')
 
     wrapper.innerHTML = ``
