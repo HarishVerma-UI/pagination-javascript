@@ -1,5 +1,4 @@
 # Pagination-javascript
-Javascript , Html ,Css </br>
 
 ### Built With
 * [Javascript]()
