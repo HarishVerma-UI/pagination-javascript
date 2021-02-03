@@ -1,0 +1,40 @@
+.container {
+    padding: 10px;
+    width: 900px;
+    height:329px;
+}
+.pagination{
+  text-align: center;
+  width: 900px;
+}
+
+.controls-item {
+    display: inline-block;
+}
+
+.btn {
+    margin: 1px;
+}
+
+#blog {
+    font-family: Arial, Helvetica, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+  #blog td, #blog th {
+    border: 1px solid #ddd;
+    padding: 8px;
+  }
+  
+  #blog tr:nth-child(even){background-color: #f2f2f2;}
+  
+  #blog tr:hover {background-color: #ddd;}
+  
+  #blog th {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: left;
+    background-color:black;
+    color: white;
+  }
