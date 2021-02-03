@@ -1,5 +1,4 @@
 # Pagination-javascript
-Simple pazination using pure javascript</br>
 Javascript , Html ,Css </br>
 
 ### Built With
